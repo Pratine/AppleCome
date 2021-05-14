@@ -1,5 +1,5 @@
 """
-WSGI config for needwatt project.
+WSGI config for appleCome project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 

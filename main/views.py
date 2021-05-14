@@ -32,7 +32,7 @@ def home(request):
             "A empresa da que enviou foi: " + message_name + 
             "\nA mensagem é: " + message,
             message_email,
-            ['geral@needwatt.com'],
+            ['geral@appleCome.com'],
             fail_silently=True,
         )
         return render(request, 'home.html', {})

@@ -1,5 +1,5 @@
 """
-ASGI config for needwatt project.
+ASGI config for appleCome project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
